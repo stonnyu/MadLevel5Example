@@ -10,14 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f04b8167-6ab0-4a19-89a9-028791eaf377" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/model/ReminderViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/Reminder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/model/Reminder.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/dao/ReminderDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/repository/ReminderRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderRoomDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/database/ReminderRoomDatabase.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603037765788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Sorted code in packages and created view model for Reminder">
+      <created>1609343099687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609343099687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,7 +199,8 @@
     </ignored-roots>
     <MESSAGE value="Setting up database" />
     <MESSAGE value="Added database functionality to the app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added database functionality to the app" />
+    <MESSAGE value="Sorted code in packages and created view model for Reminder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorted code in packages and created view model for Reminder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="180" key="#Project_Structure" timestamp="1603029004069">
@@ -222,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="736" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341306153" />
-    <state x="533" y="108" key="CommitChangelistDialog2" timestamp="1603037765158">
+    <state x="533" y="108" key="CommitChangelistDialog2" timestamp="1609343099047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603037765158" />
+    <state x="533" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609343099047" />
     <state x="563" y="300" key="FileChooserDialogImpl" timestamp="1609340957929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -258,10 +259,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341014963" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1603037767057">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1609343102151">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603037767057" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609343102151" />
     <state x="667" y="273" width="585" height="534" key="find.popup" timestamp="1609340931232">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
