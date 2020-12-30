@@ -9,13 +9,23 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04b8167-6ab0-4a19-89a9-028791eaf377" name="Default Changelist" comment="" />
+    <list default="true" id="f04b8167-6ab0-4a19-89a9-028791eaf377" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/model/ReminderViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/Reminder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/model/Reminder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/dao/ReminderDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/repository/ReminderRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/ReminderRoomDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/database/ReminderRoomDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5X_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -38,6 +48,7 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -59,6 +70,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.madlevel5example.repository" />
+      <recent name="com.example.madlevel5example.model" />
+      <recent name="com.example.madlevel5example.database" />
+      <recent name="com.example.madlevel5example.dao" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -199,6 +218,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="487" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603029024914" />
+    <state x="736" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1609341306153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="736" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341306153" />
     <state x="533" y="108" key="CommitChangelistDialog2" timestamp="1603037765158">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -207,14 +230,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="563" y="300" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609340957929" />
-    <state x="662" y="420" key="Github.ShareDialog" timestamp="1603031982926">
+    <state x="662" y="420" key="Github.ShareDialog" timestamp="1609341028056">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="662" y="420" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603031982926" />
-    <state x="494" y="227" key="Github.UntrackedFilesDialog" timestamp="1603031994376">
+    <state x="662" y="420" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341028056" />
+    <state x="494" y="227" key="Github.UntrackedFilesDialog" timestamp="1609341041278">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="494" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603031994376" />
+    <state x="494" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341041278" />
     <state width="1876" height="295" key="GridCell.Tab.0.bottom" timestamp="1603037700811">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
