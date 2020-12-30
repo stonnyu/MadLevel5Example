@@ -1,4 +1,4 @@
-package com.example.madlevel5example
+package com.example.madlevel5example.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.madlevel5example.R
 import com.example.madlevel5example.model.Reminder
 import com.example.madlevel5example.model.ReminderViewModel
 import kotlinx.android.synthetic.main.fragment_reminders.*

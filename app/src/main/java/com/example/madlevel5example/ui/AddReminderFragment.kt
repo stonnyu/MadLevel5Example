@@ -1,4 +1,4 @@
-package com.example.madlevel5example
+package com.example.madlevel5example.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,10 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
-import androidx.core.os.bundleOf
-import androidx.fragment.app.setFragmentResult
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.example.madlevel5example.R
 import com.example.madlevel5example.model.Reminder
 import com.example.madlevel5example.model.ReminderViewModel
 import kotlinx.android.synthetic.main.fragment_add_reminder.*
@@ -50,7 +49,7 @@ class AddReminderFragment : Fragment() {
         } else {
             Toast.makeText(
                 activity,
-                R.string.not_valid_reminder, Toast.LENGTH_SHORT
+                    R.string.not_valid_reminder, Toast.LENGTH_SHORT
             ).show()
         }
     }
