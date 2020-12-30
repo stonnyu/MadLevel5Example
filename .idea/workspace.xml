@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f04b8167-6ab0-4a19-89a9-028791eaf377" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/AddReminderFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/AddReminderFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/madlevel5example/RemindersFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609343099687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactored RemindersFragment.kt to use LiveData">
+      <created>1609344103135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609344103135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,7 +208,8 @@
     <MESSAGE value="Setting up database" />
     <MESSAGE value="Added database functionality to the app" />
     <MESSAGE value="Sorted code in packages and created view model for Reminder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorted code in packages and created view model for Reminder" />
+    <MESSAGE value="Refactored RemindersFragment.kt to use LiveData" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored RemindersFragment.kt to use LiveData" />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="180" key="#Project_Structure" timestamp="1603029004069">
@@ -223,10 +232,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="736" y="311" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341306153" />
-    <state x="533" y="108" key="CommitChangelistDialog2" timestamp="1609343099047">
+    <state x="533" y="108" key="CommitChangelistDialog2" timestamp="1609344102617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609343099047" />
+    <state x="533" y="108" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609344102617" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1609344348247">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609344348247" />
     <state x="563" y="300" key="FileChooserDialogImpl" timestamp="1609340957929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -259,10 +272,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609341014963" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1609343102151">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1609344104200">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609343102151" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609344104200" />
     <state x="667" y="273" width="585" height="534" key="find.popup" timestamp="1609340931232">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
